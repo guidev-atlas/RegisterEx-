@@ -1,0 +1,7 @@
+package RegisterEx_Test.main;
+
+public class Main {
+    public static void main(String[] args) {
+
+    }
+}
